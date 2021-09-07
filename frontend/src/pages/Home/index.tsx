@@ -9,7 +9,7 @@ const Home = () => {
       <div className="container">
         <div className="jumbotron">
           <h1 className="display-4">Painel de Vendas</h1>
-          <p className="lead">Analise o desempenho das suas vendas por diferentes perspectivas</p>
+          <p className="lead">Analise o desempenho das vendas por diferentes perspectivas</p>
           <hr />
           <Link className="btn btn-primary btn-lg" to="/dashboard">
             Acessar painel
